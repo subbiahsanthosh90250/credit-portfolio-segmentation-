@@ -151,7 +151,7 @@ git commit -m "Complete Credit Portfolio Segmentation & Risk Pattern Analysis Pr
 4. Push to your GitHub repository:
 ```powershell
 git branch -M main
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/credit-portfolio-segmentation.git
+git remote add origin https://github.com/subbiahsanthosh90250/credit-portfolio-segmentation-.git
 git push -u origin main
 ```
 

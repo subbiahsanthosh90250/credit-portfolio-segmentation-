@@ -84,7 +84,7 @@ The optimal 4-cluster K-Means model revealed distinct, actionable credit cohorts
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/credit-portfolio-segmentation.git
+git clone https://github.com/subbiahsanthosh90250/credit-portfolio-segmentation-.git
 cd credit-portfolio-segmentation
 ```
 
