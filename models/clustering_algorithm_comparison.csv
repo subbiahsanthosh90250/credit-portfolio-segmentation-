@@ -1,0 +1,4 @@
+Algorithm,Clusters Identified,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index,Noise / Anomaly Ratio
+K-Means Clustering,4,0.2103,1.743,1034.1,0.0%
+Hierarchical (Ward),4,0.2168,1.7941,961.8,0.0%
+DBSCAN (Density-Based),14,0.282,1.3549,829.7,4.17%
